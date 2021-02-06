@@ -1,0 +1,13 @@
+C:\Users\marti\source\repos\UnitConverter\UnitConverter\bin\Debug\netcoreapp3.1\UnitConverter.exe
+C:\Users\marti\source\repos\UnitConverter\UnitConverter\bin\Debug\netcoreapp3.1\UnitConverter.deps.json
+C:\Users\marti\source\repos\UnitConverter\UnitConverter\bin\Debug\netcoreapp3.1\UnitConverter.runtimeconfig.json
+C:\Users\marti\source\repos\UnitConverter\UnitConverter\bin\Debug\netcoreapp3.1\UnitConverter.runtimeconfig.dev.json
+C:\Users\marti\source\repos\UnitConverter\UnitConverter\bin\Debug\netcoreapp3.1\UnitConverter.dll
+C:\Users\marti\source\repos\UnitConverter\UnitConverter\bin\Debug\netcoreapp3.1\UnitConverter.pdb
+C:\Users\marti\source\repos\UnitConverter\UnitConverter\obj\Debug\netcoreapp3.1\UnitConverter.csprojAssemblyReference.cache
+C:\Users\marti\source\repos\UnitConverter\UnitConverter\obj\Debug\netcoreapp3.1\UnitConverter.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\UnitConverter\UnitConverter\obj\Debug\netcoreapp3.1\UnitConverter.AssemblyInfo.cs
+C:\Users\marti\source\repos\UnitConverter\UnitConverter\obj\Debug\netcoreapp3.1\UnitConverter.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\UnitConverter\UnitConverter\obj\Debug\netcoreapp3.1\UnitConverter.dll
+C:\Users\marti\source\repos\UnitConverter\UnitConverter\obj\Debug\netcoreapp3.1\UnitConverter.pdb
+C:\Users\marti\source\repos\UnitConverter\UnitConverter\obj\Debug\netcoreapp3.1\UnitConverter.genruntimeconfig.cache
